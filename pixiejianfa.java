@@ -4,5 +4,6 @@ public class pixiejianfa {
 		System.out.println("no zuo no die");
 		System.out.println("jiu shi bu xing");
 		System.out.println("kui hua bao dian come here");
+		System.out.println("fork ....");
 	}
 }
